@@ -1,0 +1,14 @@
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\bin\Debug\netcoreapp2.2\WebTockenSampleProject.deps.json
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\bin\Debug\netcoreapp2.2\WebTockenSampleProject.runtimeconfig.json
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\bin\Debug\netcoreapp2.2\WebTockenSampleProject.runtimeconfig.dev.json
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\bin\Debug\netcoreapp2.2\WebTockenSampleProject.dll
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\bin\Debug\netcoreapp2.2\WebTockenSampleProject.pdb
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.csprojAssemblyReference.cache
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.RazorAssemblyInfo.cache
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.RazorAssemblyInfo.cs
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.AssemblyInfoInputs.cache
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.AssemblyInfo.cs
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.RazorTargetAssemblyInfo.cache
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.dll
+C:\Users\Andres Cordoba\Documents\Development\bitsInAction-repo\WebTockenSampleProject\WebTockenSampleProject\obj\Debug\netcoreapp2.2\WebTockenSampleProject.pdb
